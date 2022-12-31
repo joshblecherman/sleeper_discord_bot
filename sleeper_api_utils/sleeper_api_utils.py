@@ -9,7 +9,7 @@ ALL_PLAYERS_EP = "https://api.sleeper.app/v1/players/nfl"
 ROSTER_NAME_MAP = {
     1: "Jeremy",
     2: "Garret",
-    3: "Briil",
+    3: "Brill",
     4: "Evan Klein",
     5: "Seth",
     6: "Jared",
