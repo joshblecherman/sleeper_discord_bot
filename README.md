@@ -1,5 +1,8 @@
 # sleeper_discord_bot
 
+## Description 
+[Sleeper](https://sleeper.com/) is a service for hosting fantasy football leagues. This bot will allow users to view league data through discord using the [sleeper api](https://docs.sleeper.com/). This project is a work in progress. Current functionality is limitted to viewing which teams are the *thiccest*, or which teams are the heaviest by total weight. This was more of a proof of concept/joke and I plan on expanding it in the future. 
+
 ## Project tree
 .
  * [sleeper_api_utils](./sleeper_api_utils)
@@ -15,7 +18,7 @@
  * [state.db](./state.db)
  * [README.md](./README.md)
 
-## Descriptions 
+## Layout
 
 __sleeper_api_utils__: module responsible for communicating to the sleeper api 
 
